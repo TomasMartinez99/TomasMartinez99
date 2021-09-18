@@ -6,5 +6,6 @@ I consider myself a proactive, flexible, responsible and eager to learn person. 
 
 ### Where to find me
 
-- [Instagram] (https://www.instagram.com/martineztomas)
-- [LinkedIn] (https://www.linkedin.com/in/tomas-martinez1)
+[![Instagram](https://img.shields.io/badge/Instagram-@martineztomas_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/martineztomas_)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomas_Martinez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tomas-martinez1)
