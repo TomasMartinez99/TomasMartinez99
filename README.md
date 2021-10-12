@@ -12,7 +12,7 @@ I consider myself a proactive, flexible, responsible and eager to learn person. 
 
 ### Languages and Tools
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
+<p align="left">
  
 /* html */
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://es.wikipedia.org/wiki/HTML" target="_blank"> 
