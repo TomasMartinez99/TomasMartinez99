@@ -21,7 +21,7 @@ Backend developer with 3+ years of experience building web applications and APIs
 
 **Frontend & CMS**
 
-<img src="https://skillicons.dev/icons?i=js,vue,react,tailwind,bootstrap,wordpress" alt="JavaScript, Vue, React, Tailwind, Bootstrap, WordPress" />
+<img src="https://skillicons.dev/icons?i=js,vue,react,tailwind,bootstrap,wordpress" alt="JavaScript, Vue, Tailwind, Bootstrap, WordPress" />
 
 **Automation & AI**
 
