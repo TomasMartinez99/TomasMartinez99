@@ -21,7 +21,7 @@ Backend developer with 3+ years of experience building web applications and APIs
 
 **Frontend & CMS**
 
-<img src="https://skillicons.dev/icons?i=js,vue,react,tailwind,bootstrap,wordpress" alt="JavaScript, Vue, Tailwind, Bootstrap, WordPress" />
+<img src="https://skillicons.dev/icons?i=js,vue,tailwind,bootstrap,wordpress" alt="JavaScript, Vue, Tailwind, Bootstrap, WordPress" />
 
 **Automation & AI**
 
@@ -32,7 +32,7 @@ Backend developer with 3+ years of experience building web applications and APIs
 
 | Project | Description | Stack |
 |---|---|---|
-| [KeyPedidos](https://pedidosapp.keysoftworks.com/) | Order management web app | Laravel · MySQL · Tailwind |
+| [KeyPedidos](https://pedidosapp.keysoftworks.com/) | Order management web app | Laravel · MySQL · Vue |
 | [KeyGas](https://gasesdeleste.keysoftworks.com/) | Business web app for a gas distributor | Laravel · MySQL |
 | [KeyPronto](https://keypronto.keysoftworks.com) | Custom business web app | Laravel · MySQL |
 
