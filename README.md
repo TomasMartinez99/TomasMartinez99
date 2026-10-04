@@ -1,18 +1,43 @@
-### Hi there, i'm Tomas Martinez 👋
+### Hi, I'm Tomás Martínez 👋
 
-I have a degree in Systems Analysis and Development. I am passionate about programming and the Tech world.
+**Backend Developer** · PHP / Laravel · REST APIs · Automation with n8n & AI
 
-I consider myself a proactive, flexible, responsible and eager to learn person. At the same time, I like to work in a team contributing ideas and solutions to achieve a goal.
+Backend developer with 3+ years of experience building web applications and APIs from scratch. I mostly work with **Laravel, MySQL and Docker**, and I enjoy integrating third-party services and AI into real, production workflows.
+
+- 🔧 Currently building backend systems for an online gaming platform: REST APIs for users, sessions and transactions
+- 🤖 Automating processes with **n8n** and integrating LLMs (ChatGPT, Claude, Gemini) into products
+- 🧩 Freelancing since 2022: requirements analysis and full development of custom business apps
+- 🌱 Growing towards software architecture, cloud and AI engineering
+
+### Tech stack
+
+**Backend & databases**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,mysql" alt="PHP, Laravel, Python, MySQL" />
+
+**DevOps & tools**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,bitbucket" alt="Docker, Linux, Nginx, Git, GitHub, Bitbucket" />
+
+**Frontend & CMS**
+
+<img src="https://skillicons.dev/icons?i=js,vue,react,tailwind,bootstrap,wordpress" alt="JavaScript, Vue, React, Tailwind, Bootstrap, WordPress" />
+
+**Automation & AI**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [KeyPedidos](https://pedidosapp.keysoftworks.com/) | Order management web app | Laravel · MySQL · Tailwind |
+| [KeyGas](https://gasesdeleste.keysoftworks.com/) | Business web app for a gas distributor | Laravel · MySQL |
+| [KeyPronto](https://keypronto.keysoftworks.com) | Custom business web app | Laravel · MySQL |
 
 ### Where to find me
 
-[![Instagram](https://img.shields.io/badge/Instagram-@martineztomas_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/martineztomas_)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomas_Martinez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tomas-martinez1)
-
-### Languages and Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://es.wikipedia.org/wiki/HTML" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://sass-lang.com/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank">  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a> <a href="https://wordpress.com/" target="_blank">  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank">  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google analytics" width="40" height="40"/> </a> <a href="https://analytics.google.com/" target="_blank"> 
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-tomasmv.com-2E6DB4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](http://tomasmv.com/)
+[![Email](https://img.shields.io/badge/Email-tomasmartinezv99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:tomasmartinezv99@gmail.com)
